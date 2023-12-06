@@ -8,7 +8,6 @@ public class OpenDoor : MonoBehaviour
 
     public void Open()
     {
-        Debug.Log("Open");
         animator.SetBool("Open", true);
     }
 }

@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Anchor
+  - Lever
   layers:
   - Default
   - TransparentFX
@@ -16,10 +17,10 @@ TagManager:
   - Right Hand Physics
   - Player
   - Button
-  - 
-  - 
-  - 
-  - 
+  - Lever
+  - Wall
+  - LeverHold
+  - Scanner
   - 
   - 
   - 
